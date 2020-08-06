@@ -1,16 +1,28 @@
-### Hi there 👋
+# Guilherme Ceratti
 
-<!--
-**guicttram/guicttram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
+### Acadêmico de Ciência da Computação // Computer Science student
 
-Here are some ideas to get you started:
+## [PORTUGUESE]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Como estudante da área de tecnologia, naturalmente tenho afinidade com números e lógica.
+<br/> Desafios também costumam se mostrar atrativos.
+
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, HQs, animes e artes marciais
+<br/> :computer: &nbsp; Aprendendo Python 3, JavaScript, HTML e CSS
+<br/> :purple_heart: &nbsp; Buscando aprender com qualquer oportunidade
+<br/> :email: &nbsp; Entre em contato comigo:
+ - Linkedin: https://www.linkedin.com/in/guicttram/
+ - Email: guicttram@gmail.com
+
+## [ENGLISH]
+
+As a technology student, having an affinity with numbers and logic is only natural to me. 
+<br/> Challenges also prove to be quite attractive. 
+
+<br/> 💬  &nbsp; About me: I like technologies, games, comic books, anime and martial arts
+<br/> :computer: &nbsp; Currently learning Python 3, JavaScript, HTML and CSS
+<br/> :purple_heart: &nbsp; Looking to learn with every oportunity
+<br/> :email: &nbsp; Contact me:
+ - Linkedin: https://www.linkedin.com/in/guicttram/
+ - Email: guicttram@gmail.com
