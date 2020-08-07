@@ -1,7 +1,7 @@
-# Guilherme Ceratti
+<h1 align="center">Guilherme Ceratti</h1>
 
-### Hello there 👋
-### Acadêmico de Ciência da Computação // Computer Science student
+<h3 align="center">Hello there 👋</h3>
+<h3 align="center">Acadêmico de Ciência da Computação // Computer Science student</h3>
 
 ## [PORTUGUESE]
 
