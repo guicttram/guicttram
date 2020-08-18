@@ -8,7 +8,7 @@
 Como estudante da área de tecnologia, naturalmente tenho afinidade com números e lógica.
 <br/> Desafios também costumam se mostrar atrativos.
 
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, HQs, animes e artes marciais
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, ciência, games, HQs, animes e artes marciais
 <br/> :computer: &nbsp; Aprendendo Python 3, JavaScript, HTML, CSS e, nas horas vagas, Alemão.
 <br/> :purple_heart: &nbsp; Buscando aprender com qualquer oportunidade
 <br/> :email: &nbsp; Entre em contato comigo:
@@ -20,7 +20,7 @@ Como estudante da área de tecnologia, naturalmente tenho afinidade com números
 As a technology student, having an affinity with numbers and logic is only natural to me. 
 <br/> Challenges also prove to be quite attractive. 
 
-<br/> 💬  &nbsp; About me: I like technologies, games, comic books, anime and martial arts
+<br/> 💬  &nbsp; About me: I like tech, science, games, comic books, anime and martial arts
 <br/> :computer: &nbsp; Currently learning Python 3, JavaScript, HTML, CSS and, in my free time, German.
 <br/> :purple_heart: &nbsp; Looking to learn with every oportunity
 <br/> :email: &nbsp; Contact me:
