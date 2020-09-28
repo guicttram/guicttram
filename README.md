@@ -9,7 +9,7 @@ Como estudante da área de tecnologia, naturalmente tenho afinidade com números
 <br/> Desafios também costumam se mostrar atrativos.
 
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, ciência, games, HQs, animes e artes marciais
-<br/> :computer: &nbsp; Aprendendo Python 3, Java, JavaScript, HTML, CSS e, nas horas vagas, Alemão.
+<br/> :computer: &nbsp; Aprendendo Python 3, Java e, nas horas vagas, Alemão.
 <br/> :purple_heart: &nbsp; Buscando aprender com qualquer oportunidade
 <br/> :email: &nbsp; Entre em contato comigo:
  - Linkedin: https://www.linkedin.com/in/guicttram/
@@ -21,7 +21,7 @@ As a technology student, having an affinity with numbers and logic is only natur
 <br/> Challenges also prove to be quite attractive. 
 
 <br/> 💬  &nbsp; About me: I like tech, science, games, comic books, anime and martial arts
-<br/> :computer: &nbsp; Currently learning Python 3, Java, JavaScript, HTML, CSS and, in my free time, German.
+<br/> :computer: &nbsp; Currently learning Python 3, Java and, in my free time, German.
 <br/> :purple_heart: &nbsp; Looking to learn with every oportunity
 <br/> :email: &nbsp; Contact me:
  - Linkedin: https://www.linkedin.com/in/guicttram/
