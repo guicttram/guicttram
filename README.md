@@ -5,9 +5,6 @@
 
 ## [PORTUGUESE]
 
-Como estudante da área de tecnologia, naturalmente tenho afinidade com números e lógica.
-<br/> Desafios também costumam se mostrar atrativos.
-
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, ciência, games, HQs, animes e artes marciais
 <br/> :computer: &nbsp; Aprendendo Python 3, Java e, nas horas vagas, Alemão.
 <br/> :purple_heart: &nbsp; Buscando aprender com qualquer oportunidade
@@ -16,9 +13,6 @@ Como estudante da área de tecnologia, naturalmente tenho afinidade com números
  - Email: guicttram@gmail.com
 
 ## [ENGLISH]
-
-As a technology student, having an affinity with numbers and logic is only natural to me. 
-<br/> Challenges also prove to be quite attractive. 
 
 <br/> 💬  &nbsp; About me: I like tech, science, games, comic books, anime and martial arts
 <br/> :computer: &nbsp; Currently learning Python 3, Java and, in my free time, German.
