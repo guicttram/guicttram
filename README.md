@@ -6,7 +6,7 @@
 ## [PORTUGUESE]
 
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, ciência, games, HQs, Star Wars e artes marciais
-<br/> :computer: &nbsp; Aprendendo Python 3 e Java (APIs REST com SpringBoot)
+<br/> :computer: &nbsp; Aprendendo Python 3, SQL, Docker, Shell Script e Spark para Engenharia de Dados
 <br/> :purple_heart: &nbsp; Buscando aprender com qualquer oportunidade
 <br/> :email: &nbsp; Entre em contato comigo:
  - Linkedin: https://www.linkedin.com/in/guicttram/
@@ -15,7 +15,7 @@
 ## [ENGLISH]
 
 <br/> 💬  &nbsp; About me: I like tech, science, games, comic books, Star Wars and martial arts
-<br/> :computer: &nbsp; Currently learning Python 3 and Java (REST APIs using SpringBoot)
+<br/> :computer: &nbsp; Currently learning Python 3, SQL, Docker, Shell Script and Spark for Data Engineering
 <br/> :purple_heart: &nbsp; Looking to learn with every oportunity
 <br/> :email: &nbsp; Contact me:
  - Linkedin: https://www.linkedin.com/in/guicttram/
