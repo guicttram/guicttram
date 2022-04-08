@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Ceratti</h1>
 
 <h3 align="center">Hello there 👋</h3>
-<h3 align="center">Acadêmico de Ciência da Computação // Computer Science student</h3>
+<h3 align="center">Data Science and Engineering</h3>
 
 ## [PORTUGUESE]
 
